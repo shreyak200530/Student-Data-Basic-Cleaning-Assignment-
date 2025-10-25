@@ -1,0 +1,7 @@
+student_id,name,age,email,course,feedback,score
+101, Somya ,20,somya@gmail.com,Python, Great course!! ,85
+102,Rahul,21 years,rahul@domain ,PYTHON , too LONG ,90
+103,,N/A,noemail, python,NA,fail
+104,ananya,22,ananya@,Data Science,Loved it,88
+105,VIJAY ,23 ,vijay@@gmail.com,ML,good,92
+106,Meera,twenty,meera @mail.com,pyThon,,
