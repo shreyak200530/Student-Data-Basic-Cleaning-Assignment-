@@ -1,0 +1,7 @@
+student_id,name,age,email,course,feedback,score
+101, Somya ,20,somya@gmail.com,Python,0.0,85
+102,Rahul,21,unknown@email.com,Python,0.0,90
+103,,22,unknown@email.com,Python,0.0,fail
+104,ananya,22,unknown@email.com,Data Science,0.0,88
+105,VIJAY ,23,unknown@email.com,Ml,0.0,92
+106,Meera,22,unknown@email.com,Python,0.0,
